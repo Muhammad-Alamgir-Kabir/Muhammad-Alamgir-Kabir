@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There👋, I'm Muhammad Alamgir Kabir</h1>
-<h3 align="center">I'm a Learner, Problem Solver,and Gamer!!</h3>
+<h3 align="center">I'm a Learner, Problem Solver, and Gamer!!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
