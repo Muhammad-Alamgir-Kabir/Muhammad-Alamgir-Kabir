@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **STEC-CPC**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C //CPP**
 
