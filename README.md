@@ -3,7 +3,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
-<br>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=muhammad-alamgir-kabir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-alamgir-kabir" /> 
+</p>
+
 
 - 🔭 I’m currently working on **STEC-CPC**
 
